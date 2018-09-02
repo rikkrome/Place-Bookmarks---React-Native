@@ -44,3 +44,13 @@ All development files are placed in the `src` folder. The root file is `index.js
 - unit testing
 
 - Not battle tested across different sizes
+
+
+### ScreenShots
+<img src="https://firebasestorage.googleapis.com/v0/b/bookmarkplaces-eab7c.appspot.com/o/bookmark%20screen1.png?alt=media&token=31270718-e8ea-4447-b5c7-b2f8c6717a58" alt="" data-canonical-src="" height="400" />
+
+<img src="https://firebasestorage.googleapis.com/v0/b/bookmarkplaces-eab7c.appspot.com/o/search%20screen.png?alt=media&token=99994223-49b3-4d84-b2de-e8ea49c9d0a8" alt="" data-canonical-src="" height="400" />
+
+<img src="https://firebasestorage.googleapis.com/v0/b/bookmarkplaces-eab7c.appspot.com/o/bookmarked.png?alt=media&token=b4304532-2728-4e7f-ba61-b34b172d08ea" alt="" data-canonical-src="" width="200" height="400" />
+
+
